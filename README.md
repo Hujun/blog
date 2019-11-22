@@ -2,6 +2,7 @@
 
 Contents:
 
+- [Review of Deep Learning with PyTorch](https://github.com/Hujun/blog/issues/8)
 - [Review of Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow](https://github.com/Hujun/blog/issues/7)
 - [Review of Designing Data-Intensive Applications (DDIA)](https://github.com/Hujun/blog/issues/6)
 - [Build a Complete eCommerce System: Prologue](https://github.com/Hujun/blog/issues/5)
