@@ -2,8 +2,8 @@
 
 Contents:
 
-- [Review on Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow](https://github.com/Hujun/blog/issues/7)
-- [Review on Designing Data-Intensive Applications (DDIA)](https://github.com/Hujun/blog/issues/6)
+- [Review of Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow](https://github.com/Hujun/blog/issues/7)
+- [Review of Designing Data-Intensive Applications (DDIA)](https://github.com/Hujun/blog/issues/6)
 - [Build a Complete eCommerce System: Prologue](https://github.com/Hujun/blog/issues/5)
 - [Tracing System Overview](https://github.com/Hujun/blog/issues/3)
 - [Python Package with Dependencies](https://github.com/Hujun/blog/issues/4)
